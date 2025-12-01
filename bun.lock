@@ -17,6 +17,7 @@
         "react-dom": "19.2.0",
         "recharts": "^3.5.1",
         "tsx": "^4.21.0",
+        "zod": "^4.1.13",
       },
       "devDependencies": {
         "@tailwindcss/postcss": "^4",
